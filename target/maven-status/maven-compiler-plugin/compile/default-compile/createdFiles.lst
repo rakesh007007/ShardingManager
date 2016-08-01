@@ -1,0 +1,17 @@
+bundle/ShardedHibernateBundle.class
+partition/manager/HorizontalPartitionManager.class
+sessionFactory/SessionFactoryFactory.class
+configuration/pojo/Partition.class
+partition/strategy/PartitionStrategy.class
+configuration/pojo/Shard.class
+configuration/ShardedDatasourceConfiguration.class
+partition/strategy/StringBoundedPartitionStrategy.class
+bundle/ShardedHibernateBundle$1$1.class
+partition/strategy/BoundedPartitionStrategy.class
+configuration/pojo/PartitionBounds.class
+shardProvider/ShardingContextProvider.class
+configuration/pojo/Partition$PartitionBuilder.class
+bundle/ShardedHibernateBundle$2.class
+interceptors/UnitOfWorkInterceptor.class
+configuration/pojo/DatabaseShard.class
+bundle/ShardedHibernateBundle$1.class

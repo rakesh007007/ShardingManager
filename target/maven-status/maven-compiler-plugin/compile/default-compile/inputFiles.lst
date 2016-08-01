@@ -1,0 +1,13 @@
+/Users/shubham.r/flipkart/shardManager/src/main/java/configuration/pojo/Shard.java
+/Users/shubham.r/flipkart/shardManager/src/main/java/configuration/pojo/DatabaseShard.java
+/Users/shubham.r/flipkart/shardManager/src/main/java/configuration/pojo/PartitionBounds.java
+/Users/shubham.r/flipkart/shardManager/src/main/java/bundle/ShardedHibernateBundle.java
+/Users/shubham.r/flipkart/shardManager/src/main/java/partition/manager/HorizontalPartitionManager.java
+/Users/shubham.r/flipkart/shardManager/src/main/java/shardProvider/ShardingContextProvider.java
+/Users/shubham.r/flipkart/shardManager/src/main/java/partition/strategy/BoundedPartitionStrategy.java
+/Users/shubham.r/flipkart/shardManager/src/main/java/sessionFactory/SessionFactoryFactory.java
+/Users/shubham.r/flipkart/shardManager/src/main/java/partition/strategy/PartitionStrategy.java
+/Users/shubham.r/flipkart/shardManager/src/main/java/partition/strategy/StringBoundedPartitionStrategy.java
+/Users/shubham.r/flipkart/shardManager/src/main/java/configuration/pojo/Partition.java
+/Users/shubham.r/flipkart/shardManager/src/main/java/interceptors/UnitOfWorkInterceptor.java
+/Users/shubham.r/flipkart/shardManager/src/main/java/configuration/ShardedDatasourceConfiguration.java
